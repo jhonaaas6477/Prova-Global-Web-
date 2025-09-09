@@ -62,18 +62,18 @@ Em 2010, a Mercedes voltou à F1 como equipe de fábrica, assumindo a entrada qu
             <h2>Mídia</h2>
             <h3>Vídeo</h3>
             <video width="320" height="240" controls>
-                <source src="[midia/video.mp4](https://youtu.be/-21vEM9bfCU)" type="video/mp4">
+                <source src="https://www.youtube.com/watch?v=m2DmIl5_tNY" type="video/mp4">
                 Seu navegador não suporta vídeos em HTML5.
             </video>
             <h3>Áudio</h3>
             <audio controls>
-                <source src="midia/audio.mp3" type="audio/mpeg">
+                <source src="" type="audio/mpeg">
                 Seu navegador não suporta áudio em HTML5.
             </audio>
         </section>
     </main>
     <footer>
-        <p>Feito por [Seu Nome] - [Data]</p>
+        <p>Nome: João Vitor M. de Assis, Gabriel C. Pereira [09/09/2025]</p>
     </footer>
 
 </body>
