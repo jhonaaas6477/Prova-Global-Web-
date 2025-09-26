@@ -63,8 +63,13 @@ Em 2010, a Mercedes voltou à F1 como equipe de fábrica, assumindo a entrada qu
     <iframe width="560" height="315" src="https://www.youtube.com/embed/kGMp1Byuwto" title="YouTube video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
     </iframe>
     <h3>Áudio</h3>
-    <iframe width="300" height="80" src="https://www.myinstants.com/embed/f1-radio-36521/" frameborder="0" allow="autoplay" allowfullscreen>
-    </iframe>
+    <iframe
+    width="300"
+    height="80"
+    src="https://www.myinstants.com/embed/f1-radio-36521/"
+    frameborder="0"
+    allow="autoplay">
+</iframe>
      </main>
 </section>
         <p>Nome: João Vitor M. de Assis, Gabriel C. Pereira 09/09/2025</p>
