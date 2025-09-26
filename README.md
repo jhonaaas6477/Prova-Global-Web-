@@ -56,23 +56,17 @@ As tratativas teriam ocorrido no período áureo da Red Bull na F1, entre 2010 e
 Em 2010, a Mercedes voltou à F1 como equipe de fábrica, assumindo a entrada que era da Brawn GP. A primeira dupla de pilotos das Flechas de Prata foi composta pelos alemães Nico Rosberg e Schumacher, mas Schumi não rendeu como o esperado e decidiu se aposentar 'de vez' em 2012.
 
 “Niki Lauda estava na Mercedes e muito interessado em levar Lewis para lá. Lembro de tê-lo encorajado a isso. Lutávamos contra a McLaren, e, em 2012, eles tinham o carro mais rápido, e sentimos que Lewis em uma McLaren seria mais ameaçador do que em uma Mercedes. Eu incentivei Niki a investir dinheiro [em Hamilton], pois Lewis estava um tanto hesitante. Seria justo dizer que o tiro saiu pela culatra para mim”, analisou o chefe da Red Bull.</p>
-</article>
 <section>
+</article>
     <h2>Mídia</h2>
     <h3>Vídeo</h3>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/kGMp1Byuwto" title="YouTube video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
     </iframe>
     <h3>Áudio</h3>
-    <iframe
-        width="300"
-        height="80"
-        src="https://www.myinstants.com/embed/f1-radio-36521/"
-        frameborder="0"
-        allow="autoplay"
-        allowfullscreen>
+    <iframe width="300" height="80" src="https://www.myinstants.com/embed/f1-radio-36521/" frameborder="0" allow="autoplay" allowfullscreen>
     </iframe>
+     </main>
 </section>
         <p>Nome: João Vitor M. de Assis, Gabriel C. Pereira 09/09/2025</p>
 </body>
 </html>
-
