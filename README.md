@@ -30,12 +30,9 @@
 Lewis Hamilton deixa Mercedes e será piloto da Ferrari a partir de 2025
 Siga o canal do ge no WhatsApp!
 Hamilton na Ferrari: relembre a carreira do piloto heptacampeão da F1
-Hamilton na Ferrari: relembre a carreira do piloto heptacampeão da F1
 
 Segundo a própria F1, o presidente da Ferrari John Elkann - um dos responsáveis pela ida de Cristiano Ronaldo à Juventus - foi peça central na negociação, e os dois estabeleceram uma relação amistosa ao longo de diversas reuniões. A ideia inicial seria contar com Lewis na escuderia italiana já em 2024, mas, se não fosse possível, o foco seria ter Hamilton em algum momento antes de sua aposentadoria.
 
-
-Lewis Hamilton sairá da Mercedes ao fim de 2024 e assumirá uma vaga na Ferrari em 2025 — Foto: Reprodução/FOM
 Lewis Hamilton sairá da Mercedes ao fim de 2024 e assumirá uma vaga na Ferrari em 2025 — Foto: Reprodução/FOM
 
 Em outubro de 2023, dois meses depois de renovar seu contrato com a Mercedes até 2025, o heptacampeão revelou que já tinha tido conversas casuais com a Ferrari, mas sem quaisquer propostas oficiais.
