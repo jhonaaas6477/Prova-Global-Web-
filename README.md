@@ -26,7 +26,7 @@
             <article>
                 <h3>Como ocorreu a mudança de lewis hamilton para a red bull</h3>
                 <p>O mercado de pilotos da F1 já se movimentou antes mesmo do início da temporada 2024 - e com uma transação que entrará para os livros de história. Nesta quinta-feira, a Ferrari anunciou que terá Lewis Hamilton, que deixará a Mercedes em 2025 após 11 anos e seis títulos mundiais conquistados até agora. Mas o que pode ter motivado a decisão do heptacampeão?
-                
+
 Lewis Hamilton deixa Mercedes e será piloto da Ferrari a partir de 2025
 Siga o canal do ge no WhatsApp!
 Hamilton na Ferrari: relembre a carreira do piloto heptacampeão da F1
@@ -63,7 +63,7 @@ Em 2010, a Mercedes voltou à F1 como equipe de fábrica, assumindo a entrada qu
     <iframe
     width="300"
     height="80"
-    src="https://www.myinstants.com/embed/f1-radio-36521/"
+    src="https://www.myinstants.com/pt/instant/formula-1-box-box-27468/?utm_source=copy&utm_medium=share"
     frameborder="0"
     allow="autoplay">
 </iframe>
